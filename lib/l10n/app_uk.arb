@@ -1,0 +1,51 @@
+{
+  "@@locale": "uk",
+
+  "appTitle": "Нотатки",
+  "searchTooltip": "Пошук",
+  "toggleThemeTooltip": "Змінити тему",
+  "newNote": "Нова нотатка",
+  "cancel": "Скасувати",
+  "delete": "Видалити",
+  "selectAll": "Вибрати все",
+  "deselectAll": "Зняти вибір",
+  "remove": "Прибрати",
+  "pin": "Закріпити",
+  "unpin": "Відкріпити",
+
+  "selectedCount": "Вибрано {count}",
+
+  "sectionPinned": "ЗАКРІПЛЕНІ",
+  "sectionOthers": "ІНШІ",
+  "sectionRecent": "НЕЩОДАВНІ",
+
+  "emptyTitle": "Поки що немає нотаток",
+  "emptyBody": "Записуйте ідеї, списки й нагадування. Натисніть кнопку нижче, щоб створити першу нотатку.",
+
+  "errorTitle": "Не вдалося завантажити ваші нотатки",
+  "errorBody": "Під час синхронізації сталася помилка. Перевірте з'єднання та повторіть спробу.",
+  "tryAgain": "Повторити",
+
+  "titleHint": "Заголовок",
+  "bodyHint": "Почніть писати…",
+  "untitled": "Без назви",
+  "savingChanges": "Збереження змін…",
+  "saving": "Збереження…",
+
+  "charactersCount": "{count, plural, one{{count} символ} few{{count} символи} many{{count} символів} other{{count} символу}}",
+  "editedAt": "Змінено {time} · {count}",
+
+  "deleteNoteTitle": "Видалити нотатку?",
+  "deleteNoteMessage": "«{name}» буде остаточно видалено. Цю дію не можна скасувати.",
+  "deleteNotesTitle": "{count, plural, one{Видалити нотатку?} few{Видалити {count} нотатки?} many{Видалити {count} нотаток?} other{Видалити {count} нотатки?}}",
+  "deleteNotesMessage": "{count, plural, one{Вибрану нотатку буде остаточно видалено. Цю дію не можна скасувати.} other{Вибрані нотатки буде остаточно видалено. Цю дію не можна скасувати.}}",
+
+  "searchHint": "Шукати нотатки",
+  "resultsCount": "{count, plural, one{{count} результат} few{{count} результати} many{{count} результатів} other{{count} результату}}",
+  "noMatches": "Немає відповідних нотаток",
+
+  "justNow": "Щойно",
+  "minutesAgo": "{count, plural, other{{count} хв тому}}",
+  "hoursAgo": "{count, plural, other{{count} год тому}}",
+  "yesterday": "Учора"
+}

@@ -1,0 +1,51 @@
+{
+  "@@locale": "zh_Hans",
+
+  "appTitle": "笔记",
+  "searchTooltip": "搜索",
+  "toggleThemeTooltip": "切换主题",
+  "newNote": "新建笔记",
+  "cancel": "取消",
+  "delete": "删除",
+  "selectAll": "全选",
+  "deselectAll": "取消全选",
+  "remove": "移除",
+  "pin": "置顶",
+  "unpin": "取消置顶",
+
+  "selectedCount": "已选择 {count} 项",
+
+  "sectionPinned": "已置顶",
+  "sectionOthers": "其他",
+  "sectionRecent": "最近搜索",
+
+  "emptyTitle": "暂无笔记",
+  "emptyBody": "记下你的想法、清单和提醒。点击下方按钮创建你的第一条笔记。",
+
+  "errorTitle": "无法加载你的笔记",
+  "errorBody": "同步时出现问题。请检查网络连接后重试。",
+  "tryAgain": "重试",
+
+  "titleHint": "标题",
+  "bodyHint": "开始输入…",
+  "untitled": "无标题",
+  "savingChanges": "正在保存更改…",
+  "saving": "正在保存…",
+
+  "charactersCount": "{count, plural, other{{count} 个字符}}",
+  "editedAt": "已编辑 {time} · {count}",
+
+  "deleteNoteTitle": "删除笔记？",
+  "deleteNoteMessage": "“{name}”将被永久删除。此操作无法撤销。",
+  "deleteNotesTitle": "{count, plural, other{删除 {count} 条笔记？}}",
+  "deleteNotesMessage": "{count, plural, other{所选笔记将被永久删除。此操作无法撤销。}}",
+
+  "searchHint": "搜索笔记",
+  "resultsCount": "{count, plural, other{{count} 条结果}}",
+  "noMatches": "没有匹配的笔记",
+
+  "justNow": "刚刚",
+  "minutesAgo": "{count, plural, other{{count} 分钟前}}",
+  "hoursAgo": "{count, plural, other{{count} 小时前}}",
+  "yesterday": "昨天"
+}

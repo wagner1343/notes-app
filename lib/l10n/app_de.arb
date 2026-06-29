@@ -1,0 +1,51 @@
+{
+  "@@locale": "de",
+
+  "appTitle": "Notizen",
+  "searchTooltip": "Suchen",
+  "toggleThemeTooltip": "Design wechseln",
+  "newNote": "Neue Notiz",
+  "cancel": "Abbrechen",
+  "delete": "Löschen",
+  "selectAll": "Alle auswählen",
+  "deselectAll": "Auswahl aufheben",
+  "remove": "Entfernen",
+  "pin": "Anheften",
+  "unpin": "Lösen",
+
+  "selectedCount": "{count} ausgewählt",
+
+  "sectionPinned": "ANGEHEFTET",
+  "sectionOthers": "ANDERE",
+  "sectionRecent": "ZULETZT",
+
+  "emptyTitle": "Noch keine Notizen",
+  "emptyBody": "Halte Ideen, Listen und Erinnerungen fest. Tippe auf die Schaltfläche unten, um deine erste Notiz zu erstellen.",
+
+  "errorTitle": "Notizen konnten nicht geladen werden",
+  "errorBody": "Beim Synchronisieren ist ein Fehler aufgetreten. Überprüfe deine Verbindung und versuche es erneut.",
+  "tryAgain": "Erneut versuchen",
+
+  "titleHint": "Titel",
+  "bodyHint": "Schreib los…",
+  "untitled": "Ohne Titel",
+  "savingChanges": "Änderungen werden gespeichert…",
+  "saving": "Wird gespeichert…",
+
+  "charactersCount": "{count, plural, =1{1 Zeichen} other{{count} Zeichen}}",
+  "editedAt": "Bearbeitet {time} · {count}",
+
+  "deleteNoteTitle": "Notiz löschen?",
+  "deleteNoteMessage": "„{name}“ wird dauerhaft gelöscht. Diese Aktion kann nicht rückgängig gemacht werden.",
+  "deleteNotesTitle": "{count, plural, =1{Notiz löschen?} other{{count} Notizen löschen?}}",
+  "deleteNotesMessage": "{count, plural, =1{Die ausgewählte Notiz wird dauerhaft gelöscht. Diese Aktion kann nicht rückgängig gemacht werden.} other{Die ausgewählten Notizen werden dauerhaft gelöscht. Diese Aktion kann nicht rückgängig gemacht werden.}}",
+
+  "searchHint": "Notizen durchsuchen",
+  "resultsCount": "{count, plural, =1{1 Ergebnis} other{{count} Ergebnisse}}",
+  "noMatches": "Keine passenden Notizen",
+
+  "justNow": "Gerade eben",
+  "minutesAgo": "{count, plural, =1{vor 1 Min.} other{vor {count} Min.}}",
+  "hoursAgo": "{count, plural, =1{vor 1 Std.} other{vor {count} Std.}}",
+  "yesterday": "Gestern"
+}

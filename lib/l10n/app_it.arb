@@ -1,0 +1,51 @@
+{
+  "@@locale": "it",
+
+  "appTitle": "Note",
+  "searchTooltip": "Cerca",
+  "toggleThemeTooltip": "Cambia tema",
+  "newNote": "Nuova nota",
+  "cancel": "Annulla",
+  "delete": "Elimina",
+  "selectAll": "Seleziona tutto",
+  "deselectAll": "Deseleziona tutto",
+  "remove": "Rimuovi",
+  "pin": "Fissa",
+  "unpin": "Rimuovi fissaggio",
+
+  "selectedCount": "{count} selezionate",
+
+  "sectionPinned": "FISSATE",
+  "sectionOthers": "ALTRE",
+  "sectionRecent": "RECENTI",
+
+  "emptyTitle": "Ancora nessuna nota",
+  "emptyBody": "Annota idee, elenchi e promemoria. Tocca il pulsante qui sotto per creare la tua prima nota.",
+
+  "errorTitle": "Impossibile caricare le tue note",
+  "errorBody": "Si è verificato un errore durante la sincronizzazione. Controlla la connessione e riprova.",
+  "tryAgain": "Riprova",
+
+  "titleHint": "Titolo",
+  "bodyHint": "Inizia a scrivere…",
+  "untitled": "Senza titolo",
+  "savingChanges": "Salvataggio delle modifiche…",
+  "saving": "Salvataggio…",
+
+  "charactersCount": "{count, plural, =1{1 carattere} other{{count} caratteri}}",
+  "editedAt": "Modificata {time} · {count}",
+
+  "deleteNoteTitle": "Eliminare la nota?",
+  "deleteNoteMessage": "«{name}» verrà eliminata definitivamente. Questa azione non può essere annullata.",
+  "deleteNotesTitle": "{count, plural, =1{Eliminare la nota?} other{Eliminare {count} note?}}",
+  "deleteNotesMessage": "{count, plural, =1{La nota selezionata verrà eliminata definitivamente. Questa azione non può essere annullata.} other{Le note selezionate verranno eliminate definitivamente. Questa azione non può essere annullata.}}",
+
+  "searchHint": "Cerca note",
+  "resultsCount": "{count, plural, =1{1 risultato} other{{count} risultati}}",
+  "noMatches": "Nessuna nota corrispondente",
+
+  "justNow": "Adesso",
+  "minutesAgo": "{count, plural, =1{1 min fa} other{{count} min fa}}",
+  "hoursAgo": "{count, plural, =1{1 h fa} other{{count} h fa}}",
+  "yesterday": "Ieri"
+}

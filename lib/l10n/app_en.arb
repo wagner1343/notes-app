@@ -1,0 +1,99 @@
+{
+  "@@locale": "en",
+
+  "appTitle": "Notes",
+  "searchTooltip": "Search",
+  "toggleThemeTooltip": "Toggle theme",
+  "newNote": "New note",
+  "cancel": "Cancel",
+  "delete": "Delete",
+  "selectAll": "Select all",
+  "deselectAll": "Deselect all",
+  "remove": "Remove",
+  "pin": "Pin",
+  "unpin": "Unpin",
+
+  "selectedCount": "{count} selected",
+  "@selectedCount": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+
+  "sectionPinned": "PINNED",
+  "sectionOthers": "OTHERS",
+  "sectionRecent": "RECENT",
+
+  "emptyTitle": "No notes yet",
+  "emptyBody": "Jot down ideas, lists and reminders. Tap the button below to create your first note.",
+
+  "errorTitle": "Couldn't load your notes",
+  "errorBody": "Something went wrong while syncing. Check your connection and try again.",
+  "tryAgain": "Try again",
+
+  "titleHint": "Title",
+  "bodyHint": "Start typing…",
+  "untitled": "Untitled",
+  "savingChanges": "Saving changes…",
+  "saving": "Saving…",
+
+  "charactersCount": "{count, plural, =1{1 character} other{{count} characters}}",
+  "@charactersCount": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+
+  "editedAt": "Edited {time} · {count}",
+  "@editedAt": {
+    "placeholders": {
+      "time": { "type": "String" },
+      "count": { "type": "int" }
+    }
+  },
+
+  "deleteNoteTitle": "Delete note?",
+  "deleteNoteMessage": "\"{name}\" will be permanently deleted. This action can't be undone.",
+  "@deleteNoteMessage": {
+    "placeholders": {
+      "name": { "type": "String" }
+    }
+  },
+
+  "deleteNotesTitle": "{count, plural, =1{Delete note?} other{Delete {count} notes?}}",
+  "@deleteNotesTitle": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+  "deleteNotesMessage": "{count, plural, =1{The selected note will be permanently deleted. This action can't be undone.} other{The selected notes will be permanently deleted. This action can't be undone.}}",
+  "@deleteNotesMessage": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+
+  "searchHint": "Search notes",
+  "resultsCount": "{count, plural, =1{1 result} other{{count} results}}",
+  "@resultsCount": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+  "noMatches": "No matching notes",
+
+  "justNow": "Just now",
+  "minutesAgo": "{count, plural, =1{1 min ago} other{{count} min ago}}",
+  "@minutesAgo": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+  "hoursAgo": "{count, plural, =1{1 hr ago} other{{count} hr ago}}",
+  "@hoursAgo": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+  "yesterday": "Yesterday"
+}
